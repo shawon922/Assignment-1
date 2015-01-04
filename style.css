@@ -1,6 +1,6 @@
 
 body {
-    color: #FFF;
+    color: #000;
     font-family: sans-serif;
     font-size: 16px;
 }
@@ -50,4 +50,8 @@ body {
     float: left;
     padding-left: 2px;
     
+}
+
+.logo img {
+    margin-top: 20px;
 }
